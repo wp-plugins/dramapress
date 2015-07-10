@@ -8,7 +8,7 @@ Plugin Name: DramaPress
 Plugin URI: http://wordpress.org/plugins/dramapress/
 Description: This is not just a plugin, it symbolizes the angst and ire of an entire generation summed up in a few words. When activated you will randomly see WordPress related drama spewing forth. More drama will be added as it becomes available.
 Author: DramaPress
-Version: 1.0
+Version: 1.1
 */
 
 function dramapress_get_drama() {
@@ -26,7 +26,8 @@ Jetpack is too bloated for me to understand that a deactivated module doesn't ad
 I don't like Jetpack, so it MUST be breaking rules somehow!
 Matt MUST be corrupt because he runs a company!
 My patch didn't get into core so the core devs must hate me!
-My hosting company sucks because they didn't stop me from installing an exploitable plugin!";
+My hosting company sucks because they didn't stop me from installing an exploitable plugin!
+How dare Automattic purchase a domain name!?";
 
 	// Here we split it into lines
 	$spew = explode( "\n", $spew );
