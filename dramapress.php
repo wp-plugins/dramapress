@@ -27,7 +27,10 @@ I don't like Jetpack, so it MUST be breaking rules somehow!
 Matt MUST be corrupt because he runs a company!
 My patch didn't get into core so the core devs must hate me!
 My hosting company sucks because they didn't stop me from installing an exploitable plugin!
-How dare Automattic purchase a domain name!?";
+How dare Automattic purchase a domain name!?
+I'm tired of this drama, so I'll use #wpdrama in my tweet to express my frustration.
+(PROTIP: don't use a hashtag you don't like, you're just promoting it.)
+https://www.openhub.net/p/wordpress/contributors?page=1&sort=commits (Matt hasn't contributed to his own project in over a year.)";
 
 	// Here we split it into lines
 	$spew = explode( "\n", $spew );
