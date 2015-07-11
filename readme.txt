@@ -3,7 +3,7 @@ Contributors: DramaPress
 Tags: drama
 Requires at least: 3.0.1
 Tested up to: 4.2
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,9 @@ e.g.
 It would be rude not to.
 
 == Changelog ==
+
+= 1.1.1 =
+* Because why not...
 
 = 1.1 =
 * Add moar spew

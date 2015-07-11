@@ -1,14 +1,14 @@
 <?php
 /**
  * @package DramaPress
- * @version 1.0
+ * @version 1.1.1
  */
 /*
 Plugin Name: DramaPress
 Plugin URI: http://wordpress.org/plugins/dramapress/
 Description: This is not just a plugin, it symbolizes the angst and ire of an entire generation summed up in a few words. When activated you will randomly see WordPress related drama spewing forth. More drama will be added as it becomes available.
 Author: DramaPress
-Version: 1.1
+Version: 1.1.1
 */
 
 function dramapress_get_drama() {
